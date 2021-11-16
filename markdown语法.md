@@ -54,3 +54,15 @@ Markdown 段首缩进：
 &emsp; or &#8195;  表示一个全角的空格
 &emsp;&emsp; 两个全角的空格（用的比较多）
 &nbsp; or &#160; 不断行的空白格
+
+<font color=Aquamarine> 绿色文本</font>
+
+<font color=Coral>橘色文本</font>
+
+<font color=BlueViolet>紫色文本</font>
+
+<font color=Darkorange>踩踩踩</font>
+
+<font color=DeepPink>踩踩踩</font>
+
+<font color=Green>踩踩踩</font>
