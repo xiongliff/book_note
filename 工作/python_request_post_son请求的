@@ -1,0 +1,1 @@
+注意一下，data 有时 要用json参数发送请求，eg: request.get(url,json,..)
